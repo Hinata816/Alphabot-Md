@@ -35,7 +35,7 @@ global.owner = ["97259-556-1204","972595561204"] //ganti agar fitur owner bisa d
 global.ownernomer = "97259-556-1204" // nomor wa kalian
 global.ownernomerr = "+97259-556-1204" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "./image/IMG-20220713-WA0042.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© Hina-Botོ' //sticker wm ubah

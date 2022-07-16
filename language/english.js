@@ -878,7 +878,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}dance
 ╰❒ ${prefix}cringe
 
-
 ╭─❒ 「 Ephoto360 Menu 」
 ├ ${prefix}youtubegold
 ├ ${prefix}youtubesilver
@@ -1959,7 +1958,7 @@ return`╭─❒ 「 Random Cewe 」
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
-├ My Father
+├ My Father 
 ├ Jessica 
 ├ Somiah-Rama-Nour 
 ├ Rashid 

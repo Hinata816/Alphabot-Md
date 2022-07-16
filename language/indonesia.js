@@ -876,8 +876,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}dance
 ╰❒ ${prefix}cringe
 
-╭─❒ 「 Nsfw & Sfw 」
-├ $
 
 ╭─❒ 「 Ephoto360 Menu 」
 ├ ${prefix}youtubegold
@@ -1375,13 +1373,13 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ My God
 ├ My Father
 ├ Jessica 
-├ Somiah-Rama-Nour
+├ Somiah-Rama-Nour 
 ├ Rashid 
 ├ Naser
 ├ Hamza
-├ Banaz-Asmaa
-├ Bilal-Abood
-├ Murtada-Malek
+├ Banaz-Asmaa 
+├ Bilal-Abood 
+├ Murtada-Malek 
 ╰❒ And All Support
     `
 }
@@ -1707,7 +1705,6 @@ exports.ranime = (prefix) =>{
 `
 }
 
-
 exports.textpro = (prefix) =>{
 	return`╭─❒ 「 Textpro Menu 」
 ├ ${prefix}halloween2 text|text2
@@ -1960,15 +1957,15 @@ return`╭─❒ 「 Random Cewe 」
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
-├ My Father
+├ My Father 
 ├ Jessica 
-├ Somiah-Rama-Nour
+├ Somiah-Rama-Nour 
 ├ Rashid 
 ├ Naser
 ├ Hamza
-├ Banaz-Asmaa
-├ Bilal-Abood
-├ Murtada-Malek
+├ Banaz-Asmaa 
+├ Bilal-Abood 
+├ Murtada-Malek 
 ╰❒ And All Support
 `
 }
